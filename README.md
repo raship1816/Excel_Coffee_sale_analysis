@@ -42,3 +42,14 @@ products: Details of coffee products including names, prices, and categories.
 3.Geographical Sales Distribution: A visual representation of sales volume across different countries to understand regional demand.
 
 4.Product Performance: Evaluation of best-selling coffee products based on total order volume and revenue contribution.
+
+
+Tools Used :- 
+
+* Microsoft Excel: Utilized for data cleaning, analysis, pivot tables, and visualizations.
+
+* Pivot Tables & Charts: Used to summarize and visualize key insights from the dataset.
+
+* Dashboards: Designed for interactive analysis and presentation of key business metrics.
+
+* Formulas & Conditional Formatting: Applied to extract meaningful insights and highlight key trends.
